@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sterling-Ryan
 - 👀 I’m interested in ... 
-- 🌱 I’m currently learning ... Python and Javascript
+- 🌱 I’m currently learning ... Software Development
 - 💞️ I’m looking to collaborate on ... small projects for experience
 - 📫 How to reach me ...
 
